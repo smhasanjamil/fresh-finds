@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* font-family: 'Concert One', sans-serif; */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Concert One', sans-serif;
+}
+
+/* h2,
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+h4,
+h5,
+h6,
+p {
+  font-family: 'Roboto', sans-serif;
+} */
+
+.primarycolor {
+  color: #243f2f;
+}
